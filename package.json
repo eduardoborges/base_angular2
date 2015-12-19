@@ -1,0 +1,36 @@
+{
+  "name": "angular2-handson",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Projeto utilizado para a apresentação do Angular2",
+  "keywords": [
+    "angular2;",
+    "handson;",
+    "typescript"
+  ],
+  "author": "Fernando Mendonça de Almeida",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "angular2": "2.0.0-alpha.52",
+    "connect": "^3.4.0",
+    "del": "^2.2.0",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.13",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-merge": "^0.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.10.0",
+    "gulp-uglify": "^1.5.1",
+    "jshint": "^2.8.0",
+    "open": "0.0.5",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-alpha.14",
+    "serve-static": "^1.10.0",
+    "systemjs": "^0.19.6",
+    "zone.js": "0.5.8"
+  }
+}
