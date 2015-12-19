@@ -1,0 +1,26 @@
+{
+  "name": "angular2-handson",
+  "description": "Projeto utilizado para a apresentação do Angular2",
+  "main": "",
+  "authors": [
+    "Fernando Mendonça de Almeida"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "angular2;",
+    "handson;",
+    "typescript"
+  ],
+  "homepage": "https://github.com/fernandomalmeida/base_angular2",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "traceur-runtime": "~0.0.92"
+  }
+}
