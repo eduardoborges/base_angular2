@@ -27,3 +27,7 @@ class Blog {}
 
 boostrap(Blog);
 ```
+
+Recomendações de Leitura:
+- [Página oficial do Angular2](https://angular.io/)
+- [Blog SyntaxSuccess com diversos exemplos de Angular2 e AngularJS](http://www.syntaxsuccess.com/articleList/angular)
