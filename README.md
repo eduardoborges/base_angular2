@@ -25,7 +25,7 @@ import {Component, View, bootstrap} from 'angular2/angular2';
   })
 class Blog {}
 
-boostrap(Blog);
+bootstrap(Blog);
 ```
 
 Recomendações de Leitura:
